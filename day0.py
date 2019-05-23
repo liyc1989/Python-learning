@@ -12,3 +12,6 @@ print('hello world!','hello python',sep='!!')
 print('hello world!','hello python', sep = ',', end = '')
 
 print('你好','世界',sep=',',end='!')
+print('你好','世界',sep=',',end='!')
+print('你好','世界',sep=',',end='!')
+print('你好','世界',sep=',',end='!')
